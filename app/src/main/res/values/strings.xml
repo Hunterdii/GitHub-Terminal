@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FirebaseApp</string>
+    <string name="enter_the_email">Enter The Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">LOG IN</string>
+    <string name="logo_description">Hunter LoGo</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_e_mail">Your E-mail</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up1">SIGN UP1</string>
+</resources>

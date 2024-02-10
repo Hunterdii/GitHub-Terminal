@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "235968905828",
+    "project_id": "hunter-162fe",
+    "storage_bucket": "hunter-162fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235968905828:android:3dff937c85c793a3a41571",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOqd4ZxgZ-Tnd84GhPE76_rmU-1cSOmxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

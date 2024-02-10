@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F8F8F8"
+    tools:context=".SignupActivity">
+
+    <!-- Your Name -->
+    <EditText
+        android:id="@+id/nameEditText"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="16dp"
+        android:hint="@string/your_name"
+        android:background="@drawable/rounded_background_selector"
+        android:padding="12dp"
+        tools:ignore="TextFields"
+        android:importantForAutofill="no" />
+
+    <!-- Your E-mail -->
+    <EditText
+        android:id="@+id/emailSignupEditText"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/nameEditText"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="12dp"
+        android:hint="@string/your_e_mail"
+        android:background="@drawable/rounded_background_selector"
+        android:padding="12dp"
+        tools:ignore="TextFields"
+        android:importantForAutofill="no" />
+
+    <!-- Password -->
+    <EditText
+        android:id="@+id/passwordSignupEditText"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/emailSignupEditText"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="12dp"
+        android:hint="@string/password"
+        android:inputType="textPassword"
+        android:background="@drawable/rounded_background_selector"
+        android:padding="12dp"
+        android:importantForAutofill="no" />
+
+    <!-- Confirm Password -->
+    <EditText
+        android:id="@+id/confirmPasswordEditText"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/passwordSignupEditText"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="12dp"
+        android:hint="@string/confirm_password"
+        android:inputType="textPassword"
+        android:background="@drawable/rounded_background_selector"
+        android:padding="12dp"
+        android:importantForAutofill="no" />
+
+    <!-- Your additional UI components go here -->
+
+    <Button
+        android:id="@+id/signupBtn"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/confirmPasswordEditText"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="24dp"
+        android:text="@string/sign_up1"
+        android:textSize="18sp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/gradient_button_background"
+        android:elevation="8dp"
+        android:padding="16dp"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
