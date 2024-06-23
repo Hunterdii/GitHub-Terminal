@@ -45,7 +45,7 @@ jobs:
           
       - name: Update Template
         run: |
-          node updater.js ${{ github.repository_owner }} atom
+          node updater.js ${{ github.repository_owner }} monokai
         env:
           GHT: ${{ secrets.GHT }}
           
