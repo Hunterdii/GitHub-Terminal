@@ -98,5 +98,15 @@
         "orange": "#00FF00",
         "cyan": "#00FF00",
         "username": "#00FF00"
+    },
+    "cosmiceclipse": {
+        "name": "cosmiceclipse",
+        "back": "#1a1a2e",
+        "fore": "#ffffff",
+        "green": "#0fbcf9",
+        "purple": "#a349a4",
+        "orange": "#f08a5d",
+        "cyan": "#3b82f6",
+        "username": "#e94560"
     }
 }
