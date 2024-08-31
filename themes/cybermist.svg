@@ -75,79 +75,30 @@
             /* The colors defined below are the default 16 colors used for rendering text of the terminal. Adjust
                them as needed.
                gjm8 color theme (source: https://terminal.sexy/) */
-        </style>
-        <style type="text/css" id="user-style">
-            
-<!-- .foreground { fill: #f1c40f } /* Vivid Yellow */
-.background { fill: #121212 } /* Almost Black */
-.color0 { fill: #e0e0e0 } /* Light Gray */
-.color1 { fill: #ff6f61 } /* Coral */
-.green { fill: #1de9b6 } /* Neon Teal */
-.color3 { fill: #ff9f00 } /* Bright Orange */
-.color4 { fill: #5e35b1 } /* Deep Purple */
-.purple { fill: #ab47bc } /* Vibrant Purple */
-.color6 { fill: #b9fbc0 } /* Mint Green */
-.color7 { fill: #ffffff } /* White */
-.color8 { fill: #9e9e9e } /* Medium Gray */
-.color9 { fill: #ff7043 } /* Warm Coral */
-.color10 { fill: #c62828 } /* Strong Red */
-.color11 { fill: #424242 } /* Dark Gray */
-.color12 { fill: #c62828 } /* Strong Red */
-.color13 { fill: #fafafa } /* Light Gray */
-.orange { fill: #ffab40 } /* Sunburst Orange */
-.color15 { fill: #212121 } /* Very Dark Gray */ -->
-<!-- .foreground { fill: #ffcc00 } /* Bright Gold */
-.background { fill: #0d0d0d } /* Deep Charcoal */
-.color0 { fill: #e3e3e3 } /* Pale Silver */
-.color1 { fill: #ff5c8f } /* Hot Pink */
-.green { fill: #39c6a0 } /* Aqua Green */
-.color3 { fill: #ff6f00 } /* Vivid Orange */
-.color4 { fill: #5c2a9d } /* Royal Purple */
-.purple { fill: #d500f9 } /* Electric Purple */
-.color6 { fill: #b9fbc0 } /* Soft Sage Green */
-.color7 { fill: #f5f5f5 } /* Bright White */
-.color8 { fill: #8c8c8c } /* Cool Gray */
-.color9 { fill: #ff8a65 } /* Peach Orange */
-.color10 { fill: #e53935 } /* Bold Red */
-.color11 { fill: #333333 } /* Very Dark Gray */
-.color12 { fill: #e53935 } /* Bold Red */
-.color13 { fill: #f9f9f9 } /* Lightest Gray */
-.orange { fill: #ff9e80 } /* Pastel Orange */
-.color15 { fill: #1c1c1c } /* Almost Black */ -->
-.foreground { fill: #009688 } /* Teal */
-.background { fill: #121212 } /* Very Dark Gray */
-.color0 { fill: #e1e5ea } /* Light Mist */
-.color1 { fill: #f45c42 } /* Bright Coral */
-.green { fill: #00e676 } /* Neon Green */
-.color3 { fill: #ffb74d } /* Soft Apricot */
-.color4 { fill: #3d5afe } /* Vivid Blue */
-.purple { fill: #7c4dff } /* Royal Purple */
-.color6 { fill: #c6ff00 } /* Lime Green */
-.color7 { fill: #00bcd4 } /* Cyan Blue */
-.color8 { fill: #9e9e9e } /* Medium Gray */
-.color9 { fill: #ff7043 } /* Warm Coral */
-.color10 { fill: #c2185b } /* Fuchsia Pink */
-.color11 { fill: #212121 } /* Almost Black */
-.color12 { fill: #d32f2f } /* Strong Red */
-.color13 { fill: #fafafa } /* Light Gray */
-.orange { fill: #ff9e80 } /* Pastel Orange */
-.color14 { fill: #8e44ad } /* Amethyst Purple */
-.color15 { fill: #292929 } /* Deep Charcoal */
-.color16 { fill: #4caf50 } /* Fresh Green */
-.color17 { fill: #fbc02d } /* Golden Yellow */
-.color18 { fill: #d81b60 } /* Deep Pink */
-.color19 { fill: #0091ea } /* Sky Blue */
-.color20 { fill: #b9fbc0 }
-.color21 { fill: #39c6a0 }
-.color22 { fill: #c0392b }- Mahogany
-
-
+            .foreground {fill: #009688}
+            .background {fill: #121212}
+            .color0 {fill: #272822}
+            .color1 {fill: #f92672}
+            .green {fill: #00e676}
+            .color3 {fill: #f4bf75}
+            .color4 {fill: #66d9ef}
+            .purple {fill: #7c4dff}
+            .color6 {fill: #00bcd4}
+            .color7 {fill: #f8f8f2}
+            .color8 {fill: #75715e}
+            .color9 {fill: #fd971f}
+            .color10 {fill: #c2185b}
+            .color11 {fill: #49483e}
+            .color12 {fill: #009688}
+            .color13 {fill: #f5f4f1}
+            .orange {fill: #ff9e80}
+            .color15 {fill: #f9f8f5}
         </style>
     </defs>
     <rect id="terminalui" class="background" width="100%" height="100%" ry="4.5826941" />
-    <circle cx="24" cy="23" r="7" fill="#e94560" />
-    <circle cx="44" cy="23" r="7" fill="#f8b400" />
-    <circle cx="64" cy="23" r="7" fill="#0fbcf9" />
+    <circle cx="24" cy="23" r="7" fill="#f92672" />
+    <circle cx="44" cy="23" r="7" fill="#f4bf75" />
+    <circle cx="64" cy="23" r="7" fill="#a6e22e" />
     <svg id="screen" width="760" height="357" x="23" y="50" viewBox="0 0 760 357" preserveAspectRatio="xMidYMin slice">
         <rect class="background" height="100%" width="100%" x="0" y="0" />
         <defs>
@@ -203,14 +154,14 @@
             <g id="g8">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Starshadow0707</text>
                 <text x="128" textLength="8" class="foreground">:</text>
-                <text x="136" textLength="8" font-weight="bold" class="color14">~</text>
-                <text x="144" textLength="64" class="color19">$ whoami</text>
+                <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
+                <text x="144" textLength="64" class="foreground">$ whoami</text>
             </g>
             <g id="g9">
                 <text x="0" textLength="8" class="background"></text>
             </g>
             <g id="g10">
-                <text x="0" textLength="104" class="color6">Het(Hunter) Patel</text>
+                <text x="0" textLength="104" class="color6">Het Patel</text>
             </g>
             <g id="g11">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Starshadow0707</text>
@@ -285,20 +236,20 @@
             <g id="g21">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Starshadow0707</text>
                 <text x="128" textLength="8" class="foreground">:</text>
-                <text x="136" textLength="8" font-weight="bold" class="color14">~</text>
-                <text x="144" textLength="96" class="color19">$ git status</text>
+                <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
+                <text x="144" textLength="96" class="foreground">$ git status</text>
             </g>
             <g id="g22">
-                <text x="0" textLength="240" font-style="italic" class="color22">        GitHub Status         </text>
+                <text x="0" textLength="240" font-style="italic" class="foreground">        GitHub Status         </text>
             </g>
             <g id="g23">
-                <text x="0" textLength="240" class="color16">&#9556;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9572;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9559;</text>
+                <text x="0" textLength="240" class="foreground">&#9556;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9572;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9559;</text>
             </g>
             <g id="g24">
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
-                <text x="8" textLength="120" font-weight="bold" class="color20"> Title         </text>
+                <text x="8" textLength="120" font-weight="bold" class="orange"> Title         </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
-                <text x="136" textLength="96" font-weight="bold" class="color20"> Count      </text>
+                <text x="136" textLength="96" font-weight="bold" class="orange"> Count      </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
             <g id="g25">
@@ -308,35 +259,35 @@
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
                 <text x="8" textLength="120" class="purple"> Stars         </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
-                <text x="136" textLength="96" class="green"> 0          </text>
+                <text x="136" textLength="96" class="green"> 180        </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
             <g id="g27">
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
                 <text x="8" textLength="120" class="purple"> Forks         </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
-                <text x="136" textLength="96" class="green"> 1          </text>
+                <text x="136" textLength="96" class="green"> 30         </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
             <g id="g28">
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
                 <text x="8" textLength="120" class="purple"> Commits       </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
-                <text x="136" textLength="96" class="green"> 6431       </text>
+                <text x="136" textLength="96" class="green"> 1297       </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
             <g id="g29">
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
                 <text x="8" textLength="120" class="purple"> Followers     </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
-                <text x="136" textLength="96" class="green"> 0          </text>
+                <text x="136" textLength="96" class="green"> 42         </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
             <g id="g30">
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
                 <text x="8" textLength="120" class="purple"> Pull Requests </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
-                <text x="136" textLength="96" class="green"> 2          </text>
+                <text x="136" textLength="96" class="green"> 6          </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
             <g id="g31">
@@ -350,7 +301,7 @@
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
                 <text x="8" textLength="120" class="purple"> Repository    </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
-                <text x="136" textLength="96" class="green"> 12         </text>
+                <text x="136" textLength="96" class="green"> 25         </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
             <g id="g33">
@@ -408,11 +359,11 @@
             <g id="g41">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Starshadow0707</text>
                 <text x="128" textLength="8" class="foreground">:</text>
-                <text x="136" textLength="8" font-weight="bold" class="color14">~</text>
-                <text x="144" textLength="64" class="color19">$ uptime</text>
+                <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
+                <text x="144" textLength="64" class="foreground">$ uptime</text>
             </g>
             <g id="g42">
-                <text x="0" textLength="32" font-weight="bold" class="color6">514</text>
+                <text x="0" textLength="32" font-weight="bold" class="orange">569</text>
             </g>
             <g id="g43">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Starshadow0707</text>
@@ -445,11 +396,11 @@
             <g id="g47">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Starshadow0707</text>
                 <text x="128" textLength="8" class="foreground">:</text>
-                <text x="136" textLength="8" font-weight="bold" class="color14">~</text>
-                <text x="144" textLength="48" class="color19">$ exit</text>
+                <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
+                <text x="144" textLength="48" class="foreground">$ exit</text>
             </g>
             <g id="g48">
-                <text x="0" textLength="32" class="color6">exit</text>
+                <text x="0" textLength="32" class="foreground">exit</text>
             </g>
         </defs>
         <g id="screen_view">
