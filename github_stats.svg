@@ -75,23 +75,23 @@
             /* The colors defined below are the default 16 colors used for rendering text of the terminal. Adjust
                them as needed.
                gjm8 color theme (source: https://terminal.sexy/) */
-            .foreground {fill: #ffffff}
-            .background {fill: #1a1a2e}
+            .foreground {fill: #009688}
+            .background {fill: #121212}
             .color0 {fill: #272822}
             .color1 {fill: #f92672}
-            .green {fill: #0fbcf9}
+            .green {fill: #00e676}
             .color3 {fill: #f4bf75}
             .color4 {fill: #66d9ef}
-            .purple {fill: #a349a4}
-            .color6 {fill: #3b82f6}
+            .purple {fill: #7c4dff}
+            .color6 {fill: #00bcd4}
             .color7 {fill: #f8f8f2}
             .color8 {fill: #75715e}
             .color9 {fill: #fd971f}
-            .color10 {fill: #ff2e63}
+            .color10 {fill: #c2185b}
             .color11 {fill: #49483e}
-            .color12 {fill: #ffffff}
+            .color12 {fill: #009688}
             .color13 {fill: #f5f4f1}
-            .orange {fill: #f08a5d}
+            .orange {fill: #ff9e80}
             .color15 {fill: #f9f8f5}
         </style>
     </defs>
