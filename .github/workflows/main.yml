@@ -45,7 +45,7 @@ jobs:
           
       - name: Update Template
         run: |
-          node updater.js ${{ github.repository_owner }} hacker
+          node updater.js ${{ github.repository_owner }} cybermist
         env:
           GHT: ${{ secrets.GHT }}
           

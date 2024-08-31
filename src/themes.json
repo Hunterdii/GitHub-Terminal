@@ -98,5 +98,25 @@
         "orange": "#00FF00",
         "cyan": "#00FF00",
         "username": "#00FF00"
+    },
+    "cosmiceclipse": {
+        "name": "cosmiceclipse",
+        "back": "#1a1a2e",
+        "fore": "#ffffff",
+        "green": "#0fbcf9",
+        "purple": "#a349a4",
+        "orange": "#f08a5d",
+        "cyan": "#3b82f6",
+        "username": "#ff2e63"
+    },
+    "cybermist": {
+        "name": "cybermist",
+        "back": "#121212",
+        "fore": "#009688",
+        "green": "#00e676",
+        "purple": "#7c4dff",
+        "orange": "#ff9e80",
+        "cyan": "#00bcd4",
+        "username": "#c2185b"
     }
 }

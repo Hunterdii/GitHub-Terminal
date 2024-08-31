@@ -29,13 +29,15 @@ node updater.js ${{ github.repository_owner }} <themeName>
 
 For random theme, need not to mention any arguments
 
-|                           **Theme Sample**                            | **Theme Name** |         **Theme Sample**        |  **ThemeName** |
-| :-------------------------------------------------------------------: | :------------: | :------------------------------:| :-------------: |
+|                           **Theme Sample**                            | **Theme Name** |         **Theme Sample**        |  **Theme Name**  |
+| :-------------------------------------------------------------------: | :------------: | :------------------------------:| :--------------: |
 |      <img align="center" src="./themes/ubuntu.svg" alt="ubuntu">      |     ubuntu     | <img align="center" src="./themes/hacker.svg" alt="hacker">  |   hacker   |
 |        <img align="center" src="./themes/atom.svg" alt="atom">        |      atom      | <img align="center" src="./themes/googledark.svg" alt="googledark">  |   googledark   |
 |     <img align="center" src="./themes/default.svg" alt="default">     |    default     | <img align="center" src="./themes/googlelight.svg" alt="googlelight"> |  googlelight   |
 |     <img align="center" src="./themes/dracula.svg" alt="dracula">     |    dracula     | <img align="center" src="./themes/monokai.svg" alt="monokai">     |    monokai     |
 |      <img align="center" src="./themes/github.svg" alt="github">      |     github     | <img align="center" src="./themes/powershell.svg" alt="powershell">  |   powershell   |
+|  <img align="center" src="./themes/cybermist.svg" alt="cybermist">  |   cybermist   | <img align="center" src="./themes/cosmiceclipse.svg" alt="cosmiceclipse"> | cosmiceclipse |
+
 
 ## Contributions
 
