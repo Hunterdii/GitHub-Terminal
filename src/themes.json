@@ -119,4 +119,95 @@
         "cyan": "#00bcd4",
         "username": "#c2185b"
     }
+    "neonwave": {
+        "name": "neonwave",
+        "back": "#1a1a1d",
+        "fore": "#e94560",
+        "green": "#22c55e",
+        "purple": "#c084fc",
+        "orange": "#f97316",
+        "cyan": "#0ea5e9",
+        "username": "#f43f5e"
+    },
+    "pastelink": {
+        "name": "pastelink",
+        "back": "#f8f7ff",
+        "fore": "#5c5470",
+        "green": "#9ae66e",
+        "purple": "#b794f4",
+        "orange": "#ffab73",
+        "cyan": "#6dd6d3",
+        "username": "#6a5acd"
+    },
+    "nightsky": {
+        "name": "nightsky",
+        "back": "#0c1445",
+        "fore": "#e0e6f0",
+        "green": "#82e9de",
+        "purple": "#a89be4",
+        "orange": "#f78c6b",
+        "cyan": "#76b9ef",
+        "username": "#ff9ff3"
+    },
+    "solarflare": {
+        "name": "solarflare",
+        "back": "#302f2f",
+        "fore": "#f7b801",
+        "green": "#ffdd57",
+        "purple": "#dcb0ff",
+        "orange": "#fc5c9c",
+        "cyan": "#6bc0ff",
+        "username": "#ff4757"
+    },
+    "aquaillusion": {
+        "name": "aquaillusion",
+        "back": "#001f3f",
+        "fore": "#7fdbff",
+        "green": "#2ecc40",
+        "purple": "#b10dc9",
+        "orange": "#ff851b",
+        "cyan": "#39cccc",
+        "username": "#85144b"
+    },
+    "moodyblue": {
+        "name": "moodyblue",
+        "back": "#0a1d37",
+        "fore": "#d1e8e2",
+        "green": "#3ddc97",
+        "purple": "#7353ba",
+        "orange": "#ff7849",
+        "cyan": "#54a0ff",
+        "username": "#ff6b6b"
+    },
+    "floralvibes": {
+        "name": "floralvibes",
+        "back": "#fff8f0",
+        "fore": "#515151",
+        "green": "#81c995",
+        "purple": "#b39ddb",
+        "orange": "#ffa726",
+        "cyan": "#80deea",
+        "username": "#ec407a"
+    },
+    "circuitfusion": {
+        "name": "circuitfusion",
+        "back": "#101820",
+        "fore": "#4caf50",
+        "green": "#00e676",
+        "purple": "#7e57c2",
+        "orange": "#ff7043",
+        "cyan": "#29b6f6",
+        "username": "#ff5252"
+    },
+    "duskscape": {
+        "name": "duskscape",
+        "back": "#262335",
+        "fore": "#eae0d5",
+        "green": "#98ddca",
+        "purple": "#aa7bff",
+        "orange": "#fbc687",
+        "cyan": "#61c0bf",
+        "username": "#fa6e59"
+    }
 }
+
