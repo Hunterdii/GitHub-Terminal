@@ -45,7 +45,7 @@ jobs:
           
       - name: Update Template
         run: |
-          node updater.js ${{ github.repository_owner }} pastelvibess
+          node updater.js ${{ github.repository_owner }} retro
         env:
           GHT: ${{ secrets.GHT }}
           
