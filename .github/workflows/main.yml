@@ -45,7 +45,7 @@ jobs:
           
       - name: Update Template
         run: |
-          node updater.js ${{ github.repository_owner }} floral
+          node updater.js ${{ github.repository_owner }} serenity
         env:
           GHT: ${{ secrets.GHT }}
           
