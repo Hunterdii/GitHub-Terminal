@@ -45,7 +45,7 @@ jobs:
           
       - name: Update Template
         run: |
-          node updater.js ${{ github.repository_owner }} cyberpunk
+          node updater.js ${{ github.repository_owner }} floral
         env:
           GHT: ${{ secrets.GHT }}
           
