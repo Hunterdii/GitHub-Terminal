@@ -75,23 +75,23 @@
             /* The colors defined below are the default 16 colors used for rendering text of the terminal. Adjust
                them as needed.
                gjm8 color theme (source: https://terminal.sexy/) */
-            .foreground {fill: #e94560}
-            .background {fill: #1a1a1d}
+            .foreground {fill: #4B0082}
+            .background {fill: #FFE4E1}
             .color0 {fill: #272822}
             .color1 {fill: #f92672}
-            .green {fill: #22c55e}
+            .green {fill: #90EE90}
             .color3 {fill: #f4bf75}
             .color4 {fill: #66d9ef}
-            .purple {fill: #c084fc}
-            .color6 {fill: #0ea5e9}
+            .purple {fill: #9370DB}
+            .color6 {fill: #ADD8E6}
             .color7 {fill: #f8f8f2}
             .color8 {fill: #75715e}
             .color9 {fill: #fd971f}
-            .color10 {fill: #f43f5e}
+            .color10 {fill: #FF69B4}
             .color11 {fill: #49483e}
-            .color12 {fill: #e94560}
+            .color12 {fill: #4B0082}
             .color13 {fill: #f5f4f1}
-            .orange {fill: #f97316}
+            .orange {fill: #FFB347}
             .color15 {fill: #f9f8f5}
         </style>
     </defs>
@@ -259,7 +259,7 @@
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
                 <text x="8" textLength="120" class="purple"> Stars         </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
-                <text x="136" textLength="96" class="green"> 268        </text>
+                <text x="136" textLength="96" class="green"> 269        </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
             <g id="g27">
@@ -273,14 +273,14 @@
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
                 <text x="8" textLength="120" class="purple"> Commits       </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
-                <text x="136" textLength="96" class="green"> 2170       </text>
+                <text x="136" textLength="96" class="green"> 2194       </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
             <g id="g29">
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
                 <text x="8" textLength="120" class="purple"> Followers     </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
-                <text x="136" textLength="96" class="green"> 58         </text>
+                <text x="136" textLength="96" class="green"> 59         </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
             <g id="g30">
