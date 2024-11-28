@@ -208,6 +208,218 @@
         "orange": "#fbc687",
         "cyan": "#61c0bf",
         "username": "#fa6e59"
+    },
+    "neonwavee": {
+        "name": "neonwave",
+        "back": "#0F0F0F",
+        "fore": "#D4FF00",
+        "green": "#00FF6E",
+        "purple": "#FF00FF",
+        "orange": "#FF9900",
+        "cyan": "#00E6FF",
+        "username": "#FF0099"
+    },
+    "aurora": {
+        "name": "aurora",
+        "back": "#2E3440",
+        "fore": "#D8DEE9",
+        "green": "#A3BE8C",
+        "purple": "#B48EAD",
+        "orange": "#D08770",
+        "cyan": "#8FBCBB",
+        "username": "#5E81AC"
+    },
+    "galactic": {
+        "name": "galactic",
+        "back": "#10121B",
+        "fore": "#D7E4FD",
+        "green": "#6EFFDD",
+        "purple": "#A96EFF",
+        "orange": "#FF9E7C",
+        "cyan": "#74C6FF",
+        "username": "#FF4C6D"
+    },
+    "retro": {
+        "name": "retro",
+        "back": "#282A36",
+        "fore": "#FFFF00",
+        "green": "#33FF00",
+        "purple": "#FF00FF",
+        "orange": "#FF8000",
+        "cyan": "#00FFFF",
+        "username": "#FF3333"
+    },
+    "pastelvibess": {
+        "name": "pastelvibes",
+        "back": "#F8F4F9",
+        "fore": "#46466E",
+        "green": "#A4D4AE",
+        "purple": "#B49FDC",
+        "orange": "#F8A978",
+        "cyan": "#9AD9DB",
+        "username": "#F29292"
+    },
+    "serenity": {
+        "name": "serenity",
+        "back": "#E3F6F5",
+        "fore": "#272727",
+        "green": "#71A59F",
+        "purple": "#A78FCF",
+        "orange": "#F4A261",
+        "cyan": "#6FB1BF",
+        "username": "#FF6F61"
+    },
+    "floral": {
+        "name": "floral",
+        "back": "#FFF5F5",
+        "fore": "#403D39",
+        "green": "#A4B494",
+        "purple": "#C27BA0",
+        "orange": "#F4B183",
+        "cyan": "#8ABDBE",
+        "username": "#C84C6D"
+    },
+    "cyberpunk": {
+        "name": "cyberpunk",
+        "back": "#2D2A55",
+        "fore": "#FF79C6",
+        "green": "#50FA7B",
+        "purple": "#BD93F9",
+        "orange": "#FFB86C",
+        "cyan": "#8BE9FD",
+        "username": "#FF5555"
+    },
+    "warmglow": {
+        "name": "warmglow",
+        "back": "#3A1F25",
+        "fore": "#FFC0CB",
+        "green": "#FFA07A",
+        "purple": "#FF69B4",
+        "orange": "#FF4500",
+        "cyan": "#87CEFA",
+        "username": "#FFD700"
+    },
+    "moonlit": {
+        "name": "moonlit",
+        "back": "#20212C",
+        "fore": "#D1D1D1",
+        "green": "#8EB897",
+        "purple": "#BF91C1",
+        "orange": "#ECA869",
+        "cyan": "#A3CBE5",
+        "username": "#DD6B4D"
+    },
+    "sunrise": {
+        "name": "sunrise",
+        "back": "#FFEDD5",
+        "fore": "#5F370E",
+        "green": "#7CC394",
+        "purple": "#D694BB",
+        "orange": "#FF924A",
+        "cyan": "#80C3D3",
+        "username": "#F25D27"
+    },
+    "starlight": {
+        "name": "starlight",
+        "back": "#0A043C",
+        "fore": "#F8F9FA",
+        "green": "#1FAB89",
+        "purple": "#8E44AD",
+        "orange": "#E67E22",
+        "cyan": "#3498DB",
+        "username": "#E74C3C"
+    },
+    "berrybliss": {
+        "name": "berrybliss",
+        "back": "#290001",
+        "fore": "#FFCCE7",
+        "green": "#7BC96F",
+        "purple": "#D3AEE7",
+        "orange": "#FF8A5B",
+        "cyan": "#86E3CE",
+        "username": "#FF5D73"
+    },
+    "tropicaldusk": {
+        "name": "tropicaldusk",
+        "back": "#1B1A29",
+        "fore": "#FFFFFF",
+        "green": "#56E39F",
+        "purple": "#AB47BC",
+        "orange": "#FF7043",
+        "cyan": "#29B6F6",
+        "username": "#FF1744"
+    },
+    "candyland": {
+        "name": "candyland",
+        "back": "#FFF0F5",
+        "fore": "#483D8B",
+        "green": "#7FFF00",
+        "purple": "#DA70D6",
+        "orange": "#FF6347",
+        "cyan": "#00CED1",
+        "username": "#FF69B4"
+    },
+    "nordicnights": {
+        "name": "nordicnights",
+        "back": "#2E3440",
+        "fore": "#ECEFF4",
+        "green": "#8FBC8F",
+        "purple": "#B48EAD",
+        "orange": "#D08770",
+        "cyan": "#88C0D0",
+        "username": "#BF616A"
+    },
+    "lavaflow": {
+        "name": "lavaflow",
+        "back": "#1E0000",
+        "fore": "#FFCCCB",
+        "green": "#FF5733",
+        "purple": "#C70039",
+        "orange": "#FFC300",
+        "cyan": "#DAF7A6",
+        "username": "#900C3F"
+    },
+    "oceandream": {
+        "name": "oceandream",
+        "back": "#001F3F",
+        "fore": "#7FDBFF",
+        "green": "#2ECC40",
+        "purple": "#B10DC9",
+        "orange": "#FF851B",
+        "cyan": "#39CCCC",
+        "username": "#85144B"
+    },
+    "blossom": {
+        "name": "blossom",
+        "back": "#FFE4E1",
+        "fore": "#4B0082",
+        "green": "#90EE90",
+        "purple": "#9370DB",
+        "orange": "#FFB347",
+        "cyan": "#ADD8E6",
+        "username": "#FF69B4"
+    },
+    "zenwave": {
+        "name": "zenwave",
+        "back": "#1B2631",
+        "fore": "#D4E6F1",
+        "green": "#27AE60",
+        "purple": "#8E44AD",
+        "orange": "#E67E22",
+        "cyan": "#2980B9",
+        "username": "#C0392B"
+    },
+    "silkmoon": {
+        "name": "silkmoon",
+        "back": "#2C2E43",
+        "fore": "#F8F8FF",
+        "green": "#88B04B",
+        "purple": "#9370DB",
+        "orange": "#F4A460",
+        "cyan": "#4682B4",
+        "username": "#FA8072"
     }
+}
+
 }
 
