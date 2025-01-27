@@ -48,7 +48,7 @@ jobs:
           
       - name: Update Template
         run: |
-          node updater.js ${{ github.repository_owner }} blossom
+          node updater.js ${{ github.repository_owner }} lavaflow
         env:
           GHT: ${{ secrets.GHT }}
           
