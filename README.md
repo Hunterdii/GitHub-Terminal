@@ -2,8 +2,8 @@
 <p align='center'>Dynamically Generate GitHub Stats as like Terminal Interface </p>
 
 <p align="center" >
-  <a href="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml">
-    <img src="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml/badge.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
+  <a href="https://github.com/Hunterdii/github-stats-terminal-style/actions/workflows/main.yml">
+    <img src="https://github.com/Hunterdii/GitHub-Terminal/actions/workflows/main.yml/badge.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 
 ## Usage
 
-1. Create a New Repository using this Template or click [here](https://github.com/yogeshwaran01/github-stats-terminal-style/generate) to create.
+1. Create a New Repository using this Template or click [here](https://github.com/Hunterdii/github-stats-terminal-style/generate) to create.
 2. Create the personal Acess token. Checkout this [link](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token) to create personal access token.
 3. Add a New Repository secret to your repo. Name of the secret is must be `GHT` and value is your personal access token (PAT). Checkout this [link](https://docs.github.com/en/actions/reference/encrypted-secrets) to add new repositiry secret.
 
