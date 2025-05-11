@@ -48,7 +48,7 @@ jobs:
           
       - name: Update Template
         run: |
-          node updater.js ${{ github.repository_owner }} lavaflow
+          node updater.js ${{ github.repository_owner }} sunrise
         env:
           GHT: ${{ secrets.GHT }}
           
